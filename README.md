@@ -1,7 +1,3 @@
----
-title: Budget Daily
-description: Simple. Private. Yours.
----
 
 # 💰 Budget Daily
 **Track your money with clarity and control — no subscriptions, no ads.**
