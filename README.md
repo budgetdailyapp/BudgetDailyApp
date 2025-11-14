@@ -41,7 +41,7 @@ Budget Daily does **not** collect, sell, or share your personal data.
 All financial information is stored securely on your device or in your private iCloud account.
 
 View the full privacy policy here:  
-➡️ [Privacy Policy](https://github.com/budgetdailyapp/privacy-policy.html)
+➡️ [Privacy Policy](https://budgetdailyapp.github.io/BudgetDailyApp/privacy-policy.html)
 
 ---
 
