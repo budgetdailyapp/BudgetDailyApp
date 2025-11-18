@@ -15,8 +15,7 @@ Pay once, own it forever, and take control of your finances every day.
 - **Private & Secure** — Keep data local or securely sync with iCloud — your data stays yours.  
 - **Beautifully Designed** — Optimized for iPhone and iPad, including dark mode and accessibility.
 
-👉 [Download Budget Daily on the App Store](https://apps.apple.com/)  
-*(Replace with your actual App Store link once live.)*
+👉 [Download Budget Daily on the App Store](https://apps.apple.com/us/app/budget-daily/id6755091517)  
 
 ---
 
